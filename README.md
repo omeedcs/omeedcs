@@ -1,11 +1,5 @@
-<style> 
- img {
-  border-radius: 50%;
-}
- </style>
-
 <p align="center">
- <img border-radius = "50%" width = "75%" src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
+ <img border-radius = "50%"  src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
 </p>
 
 ## Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
