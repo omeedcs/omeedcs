@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://qph.fs.quoracdn.net/main-qimg-d49b9ef4cd52ada03d749515e31061a0" align="center" alt="Github Readme Stats" />
+ < src="https://qph.fs.quoracdn.net/main-qimg-d49b9ef4cd52ada03d749515e31061a0" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
