@@ -1,5 +1,5 @@
 <p align="center">
- <img border-radius = "50%" width = "50%"  src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
+ <img border-radius = "50%" width = "65%"  src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
 </p>
 
 ## Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
