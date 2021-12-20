@@ -4,6 +4,14 @@
 
 ## Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
 
+<a href="https://www.linkedin.com/in/omeedtehrani/">
+  <img align="center" alt="Omeed's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/apurvshah123/">
+  <img align="center" alt="Apurv's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
+<br />
 
 Hello. Thanks for stopping by! I am an experienced, dedicated Computer Science student at the University of Texas at Austin. 
 I am passionate about business and have a small startup in which I practice financial management, building user interfaces, and managing teams/engineers. 
