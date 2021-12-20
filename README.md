@@ -4,19 +4,19 @@
 
 ## Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
 
-<a href="https://www.linkedin.com/in/omeedtehrani/">
-  <img align="center" alt="Omeed's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/apurvshah123/">
-  <img align="center" alt="Apurv's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+<div>
+<p>
+ 
+I am a Computer Science major at UT Austin with a concentration in Machine Learning and Artificial Intelligence. I am also minoring in Business! I am extremely involved and fascinated with Capital Markets and Algorithmic Trading. I also have a large interest in Software Engineering and creating products and tools to advance society. My future goals are to become an accomplished Software Engineer at a technology company or Quantitative firm. My goals extend beyond my undergraduate, and I could see myself possibly becoming a ML Researcher, Quantitative Trader or Quantitative Analyst. Overall, through projects, engineering experience and research, I hope to use my deep passion of technology to become a driving force in the change that people and myself want to see.
 
-<br />
-
-Hello. Thanks for stopping by! I am an experienced, dedicated Computer Science student at the University of Texas at Austin. 
-I am passionate about business and have a small startup in which I practice financial management, building user interfaces, and managing teams/engineers. 
-My goal is to make an impact on the world through technology. 
-
-- 🌱 I’m currently learning to master PHP. 
-- 💞️ I’m looking to collaborate on new projects. 
-- 📫 How to reach me: omeed@cs.utexas.edu
+I am always on the lookout for new projects to work on and new people to collaborate with. Currently, there are a couple of things I hope to accomplish by the Summer of 2022. 
+ 
+1) I hope to master the fundamentals of the functional programming language, Ocaml.
+2) Create some trading algorithms through application of my statistical and programming knowledge.
+3) Build my first trading bot with Ocaml or Python.
+4) Revamp my website and post all my hand-written and computer typed notes and accomplishments on a blog.
+ 
+ </div>
+ </p>
+ 
+ 
