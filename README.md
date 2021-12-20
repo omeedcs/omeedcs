@@ -1,9 +1,8 @@
 <p align="center">
  <img width = "75%" src="https://qph.fs.quoracdn.net/main-qimg-d49b9ef4cd52ada03d749515e31061a0" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
 </p>
 
-### Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
+### 
 
 
 Hello. Thanks for stopping by! I am an experienced, dedicated Computer Science student at the University of Texas at Austin. 
