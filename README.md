@@ -2,7 +2,7 @@
  <img borderRadius = "50%" width = "75%" src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
 </p>
 
-### Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
+## Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
 
 
 Hello. Thanks for stopping by! I am an experienced, dedicated Computer Science student at the University of Texas at Austin. 
