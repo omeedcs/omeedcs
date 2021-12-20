@@ -1,5 +1,5 @@
 <p align="center">
- <img borderRadius = "50%" width = "75%" src="https://image.pngaaa.com/523/1656523-middle.png" align="center" alt="Github Readme Stats" />
+ <img borderRadius = "50%" width = "75%" src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
 </p>
 
 ### Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
