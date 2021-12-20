@@ -1,7 +1,7 @@
-<p align="center">
+<p align="left">
  <img border-radius = "50%" width = "65%"  src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
 </p>
-<p align="center">
+<p align="right">
  <img border-radius = "50%" width = "65%"  src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
 </p>
 
