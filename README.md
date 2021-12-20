@@ -3,8 +3,8 @@
  <h2 align="center">Profile</h2>
 </p>
 
+### Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
 
-👋 Omeed Tehrani or formally, @omeedcs!
 
 Hello. Thanks for stopping by! I am an experienced, dedicated Computer Science student at the University of Texas at Austin. 
 I am passionate about business and have a small startup in which I practice financial management, building user interfaces, and managing teams/engineers. 
