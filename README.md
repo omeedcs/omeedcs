@@ -2,7 +2,7 @@
 <!--  <img border-radius = "50%" width = "50%"  height = "50%" src="https://i.ytimg.com/vi/XDeD-HcAl7U/maxresdefault.jpg" align="center"  />
 </p>-->
 
- <img width = "200" src="https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2016-11/29/full/1480399656-597.jpg&width=1200"  />
+ <img width = "500" src="https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2016-11/29/full/1480399656-597.jpg&width=1200"  />
 
 
 ## Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you!
