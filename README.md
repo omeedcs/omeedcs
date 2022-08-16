@@ -3,7 +3,7 @@
 </p>-->
 
 
-## Hello! 👋 My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you.
+## Hello! My name is [Omeed Tehrani](https://github.com/omeedcs), nice to meet you. 👋
 
 <!-- <p align="center">
  <img width = "55%" src="https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2016-11/29/full/1480399656-597.jpg&width=1200"  />
