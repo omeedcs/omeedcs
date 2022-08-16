@@ -12,7 +12,7 @@
 <div>
 <p>
  
-I am a student at UT Austin majoring in Computer Science. I have a deep passion for technology and its applicabilities in advancing society. Through engineering, research and collaboration... I hope to gain the skills and resources neccesary in becoming a driving force to change the world.
+I am a student at UT Austin majoring in Computer Science. I have a deep passion for technology and its applicabilities in advancing society. Through engineering, research and collaboration... I hope to gain the skills and resources neccesary to become a driving force to change the world.
  
  </div>
  </p>
